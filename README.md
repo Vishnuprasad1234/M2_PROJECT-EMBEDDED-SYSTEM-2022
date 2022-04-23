@@ -13,3 +13,7 @@
 [![cpp_check](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/cppcheck.yml)
 
 [![unity](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml/badge.svg)](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml)
+
+<a href="https://app.codiga.io/public/user/github/Vishnuprasad1234">
+   <img src="https://api.codiga.io/public/badge/user/github/Vishnuprasad1234?style=light" alt="codiga badge" />
+</a>
