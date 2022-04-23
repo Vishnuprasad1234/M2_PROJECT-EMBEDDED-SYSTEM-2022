@@ -18,4 +18,4 @@
    <img src="https://api.codiga.io/public/badge/user/github/Vishnuprasad1234?style=light" alt="codiga badge" />
 </a>
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/dcf2df2933254eaeb2cf212bd17c20c7)](https://www.codacy.com/gh/Vishnuprasad1234/M1_project2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vishnuprasad1234/M2_Embedded system&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f417c063e3fa4edda4f6eac1595b9cf5)](https://www.codacy.com/gh/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022&amp;utm_campaign=Badge_Grade)
