@@ -11,3 +11,5 @@
 [![Contribution Check - Git Inspector](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/get%20%20inspector.yml/badge.svg)](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/get%20%20inspector.yml)
 
 [![cpp_check](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/cppcheck.yml)
+
+[![unity](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml/badge.svg)](https://github.com/Vishnuprasad1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml)
